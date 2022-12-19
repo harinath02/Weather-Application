@@ -1,0 +1,10 @@
+:root{
+  --section-overlay:rgba(0,0,0,0.7);
+  --background-overlay:rgba(0,0,0,0.2);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
